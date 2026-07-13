@@ -1,0 +1,17 @@
+print("Welcome to Project Alpha!")
+
+name = input("What is your name? ")
+age = input("How old are you? ")
+profession = input("What is your profession? ")
+city = input("Which city do you live in? ")
+favourite_food = input("Which food is your favourite? ")
+
+print("========================")
+print("My Profile")
+print("========================")
+print("Name:", name)
+print("Age:", age)
+print("Profession:", profession)
+print("City:", city)
+print("Favourite Food:", favourite_food)
+print("========================")
